@@ -4,4 +4,4 @@ A simple demonstration of using unsupervised machine learning technique, K-means
 
 Visit this [notebook](https://github.com/rakaadi/MallCustomersClustering/blob/master/Customers_clustering.ipynb) to see the code and the clustering result.
 
-The dataset source is [here](https://www.kaggle.com/shwetabh123/mall-customers)
+The dataset source is [here](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
